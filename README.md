@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-##I'm Sufiyan 👋
+## I'm Sufiyan 👋
 
 🎓 I'm a recent graduate with a passion for electronics, programming, and creative tech projects.
 
