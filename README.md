@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**msufiyankk/msufiyankk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##I'm Sufiyan 👋
 
-Here are some ideas to get you started:
+🎓 I'm a recent graduate with a passion for electronics, programming, and creative tech projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What I Do
+- 💡 Front-End Developer (Angular, HTML, CSS, JavaScript)
+- 🐍 Python Developer (APIs, problem-solving, backend integration)
+- ⚙️ Arduino & Embedded Projects (Auto rain shield, solar tracker, portable medication fridge)
+
+- ## 🛠 Tech Stack
+- HTML | CSS | JavaScript
+- Angular | Django (learning)
+- Python (APIs, logic building, loops)
+- Arduino | C
+
+- ## 🏸 Other Achievements
+- 🥉 3rd place in inter-zone Badminton competition
+
+Thanks for visiting my GitHub!
